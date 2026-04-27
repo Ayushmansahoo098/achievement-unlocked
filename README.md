@@ -5,3 +5,5 @@ A repo for GitHub achievements
 - [x] YOLO Badge 🦔
 
 - [x] Pair Extraordinaire 📦
+
+- [x] Badge Sync 🔄
